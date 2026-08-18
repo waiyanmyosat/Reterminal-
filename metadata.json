@@ -1,0 +1,6 @@
+{
+  "name": "ReTerminal",
+  "description": "Standalone local terminal emulator for Android with multi-session tabs, virtual keys, script runner, ANSI color display, and ARM64 optimizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

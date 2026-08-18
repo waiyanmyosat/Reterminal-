@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ReTerminal</string>
+    <string name="title_terminal">ReTerminal</string>
+    <string name="desc_terminal">Local Android Terminal</string>
+    <string name="new_session">New Session</string>
+    <string name="sessions">Sessions</string>
+    <string name="quick_commands">Quick Commands</string>
+    <string name="scripts">Scripts</string>
+    <string name="settings">Settings</string>
+    <string name="tools">System Info</string>
+    <string name="clear_terminal">Clear Screen</string>
+    <string name="export_logs">Export Logs</string>
+    <string name="kill_process">Kill Process (Ctrl+C)</string>
+    <string name="font_size">Font Size</string>
+    <string name="color_scheme">Color Scheme</string>
+</resources>
